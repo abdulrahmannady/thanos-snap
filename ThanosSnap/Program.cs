@@ -21,6 +21,8 @@ namespace ThanosSnap
                         Console.WriteLine("Deleted File: {0}", file.FullName);
                     }
                 }
+
+                Console.WriteLine("Press any key to exit ...");
                 Console.ReadLine();
             }
             catch (Exception e)
