@@ -22,4 +22,4 @@ for example :
 ```
 after setting the values/keys for both Directory and FileExtensions Run the application by clicking the ThanosSnap.exe
 
-Note: delete files will go to _Recycle bin_ not permanently deleted
+Note: Deleted files will go to _Recycle bin_ not permanently deleted
