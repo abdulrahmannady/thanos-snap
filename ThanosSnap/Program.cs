@@ -27,7 +27,7 @@ namespace ThanosSnap
             }
             catch (Exception e)
             {
-                using (StreamWriter w = File.AppendText("Erorr Log.txt"))
+                using (StreamWriter w = File.AppendText("Error Log.txt"))
                 {
                     w.WriteLine(e.ToString());
                 }
